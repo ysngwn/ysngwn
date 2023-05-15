@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+My CV: [https://github.com/swy-326/swy-326/blob/main/cv_sungwon_yoon.pdf](https://github.com/swy-326/swy-326/blob/main/cv_sungwon_yoon.pdf)
+
 <!--
-**swy-326/swy-326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
