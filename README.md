@@ -2,15 +2,7 @@
 <h1> Hi, there! 👋 </h1>
 </p>
 
-<a href="https://www.linkedin.com/in/sungwon-yoon/">
-  <img align="center" alt="Sungwon @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="mailto:sungwon.judy@gmail.com">
-  <img align="center" alt="Sungwon @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<div>
+<div align="left">
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
@@ -44,9 +36,18 @@
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
-  </br></br>
+
+<h2> / contact / </h2>
+
+<a href="https://www.linkedin.com/in/sungwon-yoon/">
+  <img align="center" alt="Sungwon @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="mailto:sungwon.judy@gmail.com">
+  <img align="center" alt="Sungwon @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
   
 <div align="right">
 <a href="https://www.pixiv.net/en/users/35069640">Image by @</a>
-  </div>
-  </div>
+</div>
+
+</div>
