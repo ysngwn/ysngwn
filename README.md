@@ -4,7 +4,6 @@
 
 <div align="left">
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / about me /</h2>
   
@@ -40,9 +39,6 @@
   <a href="mailto:sungwon.judy@gmail.com">
   <img align="center" alt="Sungwon @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-  
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by @</a>
-</div>
+
 
 </div>
