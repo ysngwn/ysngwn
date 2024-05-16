@@ -5,7 +5,7 @@
 
 
 ### / about me /
-- 💻 **Java Back-end** developer @ [Rede Itaú](https://www.userede.com.br/)
+- 💻 **Java Back-end** developer @ Rede Itaú
 - 📚 Bachelors in Information Systems - Universidade de São Paulo (USP) at Brazil
 - 🚩 Interested in NLP and Back-end
 
