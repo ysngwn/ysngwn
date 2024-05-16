@@ -6,7 +6,7 @@
 
 ### / about me /
 - 💻 **Java Back-end** developer @ Rede Itaú
-- 📚 Bachelors in Information Systems - Universidade de São Paulo (USP) at Brazil
+- 📚 Bachelors in Information Systems - Universidade de São Paulo (USP)
 - 🚩 Interested in NLP and Back-end
 
 
