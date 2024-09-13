@@ -5,10 +5,10 @@
 
 
 ### / about me /
-- 💻 **Java Back-end** developer @ Rede Itaú
-- 📚 Bachelors in Information Systems - Universidade de São Paulo (USP)
-- 🚩 Interested in NLP and Back-end
-
+- 💼 **Java Back-end** developer @ Rede Itaú
+- 🎓 Bachelors in Information Systems - Universidade de São Paulo (USP)
+- 📚 Interested in NLP and Back-end
+- 🌐 Korean, Brazilian-Portuguese, English, Spanish, Mandarin-Chinese
 
 ### / current skills /
 - <h4> languages </h4>
