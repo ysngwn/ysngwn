@@ -53,4 +53,4 @@
 
 - <h4> video & audio </h4>
   <img src = "https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt = "audition" />
-  sox, ffmpeg, puredata, adobe audition, aegisub, 
+  sox, ffmpeg, puredata, aegisub
