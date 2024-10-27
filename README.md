@@ -5,6 +5,7 @@
 
 
 ### / about me /
+- 📄 My CV : [here!](https://github.com/ysngwn/ysngwn/blob/main/cv_sungwon_yoon_ptbr.pdf)
 - 💼 **Java Back-end** developer @ Rede Itaú
 - 🎓 Bachelors in Information Systems - Universidade de São Paulo (USP)
 - 📚 Interested in NLP, Back-end and Linguistics
